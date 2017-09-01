@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Foo BAr Foo@mail.com Main Foo
 
 # THANKS
 
