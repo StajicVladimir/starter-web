@@ -12,4 +12,4 @@ and now more changes from myfeatue as well
 ## HOW TO CONTRIBUTE
 dfasdf
 ###Copyright
-my.copyright
+my.copyright All rights reserved
