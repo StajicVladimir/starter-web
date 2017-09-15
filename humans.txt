@@ -8,9 +8,10 @@
 # THANKS
 
     Thanks to everyone
-	Please leave review for this course
-
+	please like us 
+	
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr
+	Git
